@@ -15,30 +15,7 @@ To fulfill the first requirement, you'll use the OpenWeatherMap API to retrieve 
 
 - Latitude vs. Wind Speed
 
-</br>
-</br>
-<img src="WeatherPy/output_data/Fig1.png" alt="" title="" class="center" width="600" height="500">
-</br>
-</br>
-
-</br>
-</br>
-<img src="WeatherPy/output_data/Fig2.png" alt="" title="" class="center" width="600" height="500">
-</br>
-</br>
-
-</br>
-</br>
-<img src="WeatherPy/output_data/Fig3.png" alt="" title="" class="center" width="600" height="500">
-</br>
-</br>
-
-
-</br>
-</br>
-<img src="WeatherPy/output_data/Fig4.png" alt="" title="" class="center" width="600" height="500">
-</br>
-</br>
+the graphs are in output_data folder
 
 
 #### Requirement 2: Compute Linear Regression for Each Relationship
@@ -49,58 +26,7 @@ Next, create a series of scatter plots. Be sure to include the linear regression
 Sample scatter plot with the linear regression line.
 You should create the following plots:
 
-</br>
-</br>
-<img src="WeatherPy/output_data/Fig5.png" alt="" title="" class="center" width="600" height="500">
-</br>
-</br>
-
-
-</br>
-</br>
-<img src="WeatherPy/output_data/Fig6.png" alt="" title="" class="center" width="600" height="500">
-</br>
-</br>
-
-
-</br>
-</br>
-<img src="WeatherPy/output_data/Fig7.png" alt="" title="" class="center" width="600" height="500">
-</br>
-</br>
-
-
-</br>
-</br>
-<img src="WeatherPy/output_data/Fig8.png" alt="" title="" class="center" width="600" height="500">
-</br>
-</br>
-
-</br>
-</br>
-<img src="WeatherPy/output_data/Fig9.png" alt="" title="" class="center" width="600" height="500">
-</br>
-</br>
-
-
-</br>
-</br>
-<img src="WeatherPy/output_data/Fig10.png" alt="" title="" class="center" width="600" height="500">
-</br>
-</br>
-
-
-</br>
-</br>
-<img src="WeatherPy/output_data/Fig11.png" alt="" title="" class="center" width="600" height="500">
-</br>
-</br>
-
-</br>
-</br>
-<img src="WeatherPy/output_data/Fig12.png" alt="" title="" class="center" width="600" height="500">
-</br>
-</br>
+the graph are presented in folder output_data
 
 After each pair of plots, explain what the linear regression is modelling. Describe any relationships that you notice and any other findings you may uncover.
 
@@ -115,11 +41,7 @@ To succeed on this deliverable of the assignment, open the VacationPy.ipynb star
 
 Create a map that displays a point for every city in the city_data_df DataFrame as shown in the following image. The size of the point should be the humidity in each city.
 
-</br>
-</br>
-<img src="WeatherPy/output_data/map_plot.png" alt="Map Plot with Humidity" title="" class="center" width="800" height="600">
-</br>
-</br>
+you can see all graph in output_data folder
 
 Humidity map
 Narrow down the city_data_df DataFrame to find your ideal weather condition. For example:
@@ -139,11 +61,7 @@ For each city, use the Geoapify API to find the first hotel located within 10,00
 
 Add the hotel name and the country as additional information in the hover message for each city in the map as in the following image:
 
-Hotel map
 
 
-</br>
-</br>
-<img src="WeatherPy/output_data/hotel_plot.png" alt="Map Plot with Humidity" title="" class="center" width="800" height="600">
-</br>
-</br>
+
+
